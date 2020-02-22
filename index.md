@@ -14,9 +14,10 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 > **Founder & Principal Consultant (Sep 2015 - Present)** - Advised clients on
 > service deployment automation, DevOps and Cloud Infrastructure automation.
 > Grew and managed all aspects of the business, including employees and
-> partnerships.  Invented small command line tools to fill product gaps in
-> Google Cloud Platform and Puppet Enterprise.  Solutions delivered to
-> customers include:
+> partnerships.  Planned and led multiple company-wide datacenter migrations to
+> Google Cloud.  Invented small command line tools to fill product gaps in
+> Google Cloud Platform and Puppet Enterprise.  Delivered customer solutions
+> including:
 
 >  * [puppet_sync][puppet_sync] - Implementation of [Code
 >    Manager][code_manager] Puppet Enterprise functionality for a large Puppet open
