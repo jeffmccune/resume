@@ -46,7 +46,7 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 > the [Puppet standard library][stdlib] module which has over 100 million
 > installations and is included in the Puppet Enterprise product.
 
-> **Professional Service Engineer**  (May 2010 - May 2011) Accelerated the
+> **Professional Service Engineer  (May 2010 - May 2011)** Accelerated the
 > adoption of Puppet.  Scaled a large social network company's Puppet
 > deployment to 45,000+ servers.  Designed and implemented a REST API caching
 > solution resulting in an order of magnitude reduction in the number of
