@@ -13,31 +13,52 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 
 ##### [Open Infrastructure Services](https://openinfrastructure.co)
 
-> **Principal Consultant and Founder (Sep 2015 - Present)** - I'm a freelance
-> consultant focusing on DevOps & Puppet services.  I advise and consult with
-> teams on how to achieve their cloud infrastructure automation goals. Invent
-> tools to improve the operation of distributed systems, e.g. [ncio][ncio]
-> Recently played a critical role helping a large newspaper migrate their
-> on-premise infrastructure to both AWS and GCE ahead of the November 2016
-> elections, enabling workloads to shift to the lowest cost infrastructure in a
-> matter of minutes.
+> **Founder & Principal Consultant (Sep 2015 - Present)** - Advised clients on
+> service deployment automation, DevOps and Cloud Infrastructure automation.
+> Grew and managed employees, partnerships and all other aspects of the
+> business.  Invented small command line tools to fill product gaps in Google
+> Cloud Platform and Puppet Enterprise.  Example solutions delivered to
+> customers include:
+
+>  * [puppet_sync][puppet_sync] - Implementation of [Code
+>    Manager][code_manager] Puppet Enterprise functionality for a large Puppet open
+>    source customer.  Bash script so the customer team can maintain the
+>    solution without follow up feature requests.
+>  * [ncio][ncio] - Increase availability of Puppet Enterprise by replicating
+>    the node classifier service.  Ruby CLI app.
+>  * [vpc-link][vpc-link] - Overcome Google Cloud VM limits per VPC network.
+>    Terraform module.
+>  * [VM DNS Garbage Collector][vm-dns-gc] - Automatically clean up DNS records
+>    in response to VM termination audit log events.  Python Cloud Function.
+>  * [Scarab][scarab] - Automatically create presistent Cloud VPN tunnels using
+>    ipsec and BGP on an EdgeRouter-4 device with a dynamic IP address.
+>    Personal project to learn Go and explore MIPS cross compilation.  Work in
+>    progress.
+>  * [F5 Map][f5map] - Parse F5 iRules and output structured JSON and CSV for
+>    analysis and migration to Cloud firewalls.  Ruby CLI app.
+>  * [Cloud Foundation Toolkit][cft] - Accerlate Google Cloud adoption with
+>    ready to use Terraform modules.  Designed and implemented the address and
+>    startup-scripts modules, contributed to the project-factory module.
+>    Terraform modules.
 
 ##### [Puppet, Inc.](https://puppet.com/)
 
 > **Senior Software Engineer (May 2011 - Sep 2015)** - Led the team responsible
 > for peer reviewing all open source contributions to [Puppet][puppet-code].
-> Brought Puppet to Windows and Solaris, which increased revenue and
-> marketability. Heard and empathized with the Sales Team's request to, "give us
-> something to sell."  Built the automated tooling and first set of packages for
-> Puppet Enterprise which led to revenue and additional rounds of funding.
+> Brought Puppet to Windows and Solaris, which expanded the enterprise market.
+> Built the automated tooling and first set of packages for Puppet Enterprise
+> which led to annual recurring revenue and sustained company growth.  Created
+> the [Puppet standard library][stdlib] module which has over 100 million
+> installations and is included in the Puppet Enterprise product.
 
-> **Professional Service Engineer**  (May 2010 - September 2011) Helped
-> customers succeed with Puppet.  Directly helped a large social network company
-> scale Puppet's REST API's to 45,000+ servers.  Designed and implemented a REST
-> API caching solution resulting in an order of magnitude reduction in the
-> number of servers from ~100 to 8.  The solution achieved a greater than 99%
-> cache hit rate resulting in a diminished load on REST API services.  Published
-> the design in [Pro Puppet][Pro Puppet] the book.
+> **Professional Service Engineer**  (May 2010 - May 2011) Accelerated the
+> adoption of Puppet.  Scaled a large social network company's Puppet
+> deployment to 45,000+ servers.  Designed and implemented a REST API caching
+> solution resulting in an order of magnitude reduction in the number of
+> servers from ~100 to 8.  The solution achieved a greater than 99% cache hit
+> rate resulting in reduced load on backend REST API services.  Published the
+> design in [Pro Puppet][Pro Puppet] and productized the design in Puppet
+> Enterprise.
 
 ##### [Netsmart Technologies](https://www.ntst.com)
 
@@ -76,32 +97,28 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 
 Co-Author of [Pro Puppet][Pro Puppet].
 
+Certified Google Cloud Professional Architect (2018-2020).
+
 Invited Speaker at Apple WWDC, MacConf, PuppetConf (multiple), DevOps Days (multiple).
 
 ##### Fit
 
 I'm a senior developer with a strong background in systems administration and
-operations.  I'm well suited to applying creativity to solve technical
-challenges requiring coordination across teams.
+operations.  I'm well suited to design and architect solutions to technical
+challenges which span multiple teams in an organization.  Examples include
+cloud networking, automated software delivery platforms, automated
+infrastructure delivery using Terraform, and automated configuration management.
 
-My focus is not on management, but I am comfortable in mentorship and technical
-leadership positions.  I'm actively looking for a role that allows me to help
-others learn and grow along their own path.
+I enjoy mentorship and technical leadership positions.  I want to help
+colleagues learn and grow.
 
-I am accustomed to working in distributed and asynchronous environments with
-peers who are self starters.  I enjoy in-person and remote pair programming,
-particularly when mentoring junior engineers or learning a new language.
+I'm accustomed to working in distributed environments with peers who are self
+starters.  I enjoy in-person and remote pair programming, particularly when
+mentoring junior engineers or learning a new programming language.
 
-I am happy living in Portland, OR.  Offers from organizations outside of
-Portland should be for remote positions with a company having experience with
-remote senior developers.
-
-My compensation requirements vary based on the company, the social impact of the
-work, the people I work with, the problems to be solved, etc...
-
-Realistic offers include competitive salary, equity, comprehensive benefits,
-liberal vacation policies, the opportunity for conference travel, and support
-for the costs of equipment, data, and office space.
+I am happy in Portland, Oregon.  Offers from organizations outside of Portland
+should be for remote positions with a company having experience with remote
+senior developers.
 
 ----
 
@@ -112,3 +129,11 @@ _This document lives at [jeffmccune.github.io/resume][resume]_
 [crossfader]: https://github.com/puppetlabs/crossfader
 [resume]: https://jeffmccune.github.io/resume/
 [puppet-code]: https://github.com/puppetlabs/puppet
+[puppet_sync]: https://docs.google.com/document/d/1MhwmiKQDGjznkaNRVh7S1IdU2hQUYHtHCemckz77aSE/preview?usp=sharing
+[code_manager]: https://puppet.com/docs/pe/latest/code_mgr.html
+[vpc-link]: https://github.com/openinfrastructure/terraform-google-vpc-link
+[scarab]: https://github.com/openinfrastructure/scarab
+[vm-dns-gc]: https://github.com/GoogleCloudPlatform/professional-services/tree/master/examples/gcf-pubsub-vm-delete-event-handler
+[f5map]: https://github.com/GoogleCloudPlatform/professional-services/pull/169
+[cft]: https://cloud.google.com/foundation-toolkit/
+[stdlib]: https://forge.puppet.com/puppetlabs/stdlib
