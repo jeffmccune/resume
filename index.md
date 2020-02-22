@@ -83,21 +83,22 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 
 ### Education
 
-##### [The Ohio State University](http://www.osu.edu/) - **B.S., Computer Science & Engineering**
+> **Bachelor of Science in Computer Science & Engineering - [The Ohio State University](http://www.osu.edu/)**
 
 ### Miscellany
 
- * Co-Author of [Pro Puppet][Pro Puppet].
- * Certified Google Cloud Professional Architect (2018-2020).
- * Invited Speaker at Apple WWDC, MacConf, PuppetConf (multiple), DevOps Days (multiple).
+> * Co-Author of [Pro Puppet][Pro Puppet].
+> * Certified Google Cloud Professional Architect (2018-2020).
+> * Invited Speaker at Apple WWDC, MacConf, PuppetConf (multiple), DevOps Days (multiple).
 
 ### Fit
 
-I'm a senior developer with a strong background in systems administration and
-operations.  I'm well suited to design and architect solutions to technical
-challenges which span multiple teams in an organization.  Examples include
-cloud networking, automated software delivery platforms, automated
-infrastructure delivery using Terraform, and automated configuration management.
+> I'm a senior developer with a strong background in systems administration and
+> operations.  I'm well suited to design and architect solutions to technical
+> challenges which span multiple teams in an organization.  Examples include
+> cloud networking, automated software delivery platforms, automated
+> infrastructure delivery using Terraform, and automated configuration
+> management.
 
 ----
 
