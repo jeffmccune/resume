@@ -7,17 +7,15 @@ layout: resume
 
 _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfrastructure.co &middot; Portland, OR &middot; 669.444.1014_
 
-<br/>
-
 ### Experience
 
 ##### [Open Infrastructure Services](https://openinfrastructure.co)
 
 > **Founder & Principal Consultant (Sep 2015 - Present)** - Advised clients on
 > service deployment automation, DevOps and Cloud Infrastructure automation.
-> Grew and managed employees, partnerships and all other aspects of the
-> business.  Invented small command line tools to fill product gaps in Google
-> Cloud Platform and Puppet Enterprise.  Example solutions delivered to
+> Grew and managed all aspects of the business, including employees and
+> partnerships.  Invented small command line tools to fill product gaps in
+> Google Cloud Platform and Puppet Enterprise.  Example solutions delivered to
 > customers include:
 
 >  * [puppet_sync][puppet_sync] - Implementation of [Code
@@ -32,8 +30,6 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 >    in response to VM termination audit log events.  Python Cloud Function.
 >  * [Scarab][scarab] - Automatically create presistent Cloud VPN tunnels using
 >    ipsec and BGP on an EdgeRouter-4 device with a dynamic IP address.
->    Personal project to learn Go and explore MIPS cross compilation.  Work in
->    progress.
 >  * [F5 Map][f5map] - Parse F5 iRules and output structured JSON and CSV for
 >    analysis and migration to Cloud firewalls.  Ruby CLI app.
 >  * [Cloud Foundation Toolkit][cft] - Accerlate enterprise adoption of Google
@@ -62,63 +58,46 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 
 ##### [Netsmart Technologies](https://www.ntst.com)
 
-> **SaaS Manager** (Jul 2009 - May 2010) - Managed the Avatar On Demand SaaS
+> **SaaS Manager (Jul 2009 - May 2010)** - Managed the Avatar On Demand SaaS
 > Product.  Automated the deployment and setup of Avatar for new SaaS customers,
 > dramatically reducing the time between closed sale and successful
 > implementations.  Leveraged Puppet and custom written Python tools to reduce
 > cost and error rates.
 
-> **Senior Systems Administrator** (Apr 2008 - Jul 2009) - Automated backups,
+> **Senior Systems Administrator (Apr 2008 - Jul 2009)** - Automated backups,
 > managed the storage infrastructure, virtualization infrastructure with Solaris
 > Zones, Xen and VMware, network layer.
 
 ##### [The Ohio State University](https://www.osu.edu)
 
-> **Systems Administrator** (Mar 2004 - Mar 2008) - Provide technical support to
+> **Systems Administrator (Mar 2004 - Mar 2008)** - Provide technical support to
 > faculty, staff and graduate students at the Department of Mathematics.
 > Developed, deployed and maintained network services and infrastructure.
 > Managed student employees.  Designed and implemented a configuration
 > management system using Puppet which replaced cfengine in the network.
 
-> **Systems Specialist** (Jul 2002 - Mar 2004) - Provided technical support to
+> **Systems Specialist (Jul 2002 - Mar 2004)** - Provided technical support to
 > faculty, staff and graduate students at the Department of Linguistics.
 > Maintained, documented and deployed new IT services. Wrote custom software for
 > use by researchers.
-
-<br/>
 
 ### Education
 
 ##### [The Ohio State University](http://www.osu.edu/) - **B.S., Computer Science & Engineering**
 
-<br/>
+### Miscellany
 
-##### Miscellany
+ * Co-Author of [Pro Puppet][Pro Puppet].
+ * Certified Google Cloud Professional Architect (2018-2020).
+ * Invited Speaker at Apple WWDC, MacConf, PuppetConf (multiple), DevOps Days (multiple).
 
-Co-Author of [Pro Puppet][Pro Puppet].
-
-Certified Google Cloud Professional Architect (2018-2020).
-
-Invited Speaker at Apple WWDC, MacConf, PuppetConf (multiple), DevOps Days (multiple).
-
-##### Fit
+### Fit
 
 I'm a senior developer with a strong background in systems administration and
 operations.  I'm well suited to design and architect solutions to technical
 challenges which span multiple teams in an organization.  Examples include
 cloud networking, automated software delivery platforms, automated
 infrastructure delivery using Terraform, and automated configuration management.
-
-I enjoy mentorship and technical leadership positions.  I want to help
-colleagues learn and grow.
-
-I'm accustomed to working in distributed environments with peers who are self
-starters.  I enjoy in-person and remote pair programming, particularly when
-mentoring junior engineers or learning a new programming language.
-
-I am happy in Portland, Oregon.  Offers from organizations outside of Portland
-should be for remote positions with a company having experience with remote
-senior developers.
 
 ----
 
