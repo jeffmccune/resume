@@ -15,7 +15,7 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 > service deployment automation, DevOps and Cloud Infrastructure automation.
 > Grew and managed all aspects of the business, including employees and
 > partnerships.  Invented small command line tools to fill product gaps in
-> Google Cloud Platform and Puppet Enterprise.  Example solutions delivered to
+> Google Cloud Platform and Puppet Enterprise.  Solutions delivered to
 > customers include:
 
 >  * [puppet_sync][puppet_sync] - Implementation of [Code
