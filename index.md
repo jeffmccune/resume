@@ -20,18 +20,16 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 
 >  * [puppet_sync][puppet_sync] - Implementation of [Code
 >    Manager][code_manager] Puppet Enterprise functionality for a large Puppet open
->    source customer.  Bash script so the customer team can maintain the
->    solution without follow up feature requests.
+>    source customer.
 >  * [ncio][ncio] - Increase availability of Puppet Enterprise by replicating
->    the node classifier service.  Ruby CLI app.
+>    the node classifier service.
 >  * [vpc-link][vpc-link] - Overcome Google Cloud VM limits per VPC network.
->    Terraform module.
 >  * [VM DNS Garbage Collector][vm-dns-gc] - Automatically clean up DNS records
->    in response to VM termination audit log events.  Python Cloud Function.
+>    in response to VM termination audit log events.
 >  * [Scarab][scarab] - Automatically create presistent Cloud VPN tunnels using
 >    ipsec and BGP on an EdgeRouter-4 device with a dynamic IP address.
 >  * [F5 Map][f5map] - Parse F5 iRules and output structured JSON and CSV for
->    analysis and migration to Cloud firewalls.  Ruby CLI app.
+>    analysis and migration to Cloud firewalls.
 >  * [Cloud Foundation Toolkit][cft] - Accerlate enterprise adoption of Google
 >    Cloud with ready to use Terraform modules.  Designed and implemented the
 >    address and startup-scripts modules, contributed to the project-factory
