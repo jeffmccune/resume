@@ -63,14 +63,15 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 > implementations.  Leveraged Puppet and custom written Python tools to reduce
 > cost and error rates.
 
-> **Senior Systems Administrator (Apr 2008 - Jul 2009)** - Automated backups,
-> managed the storage infrastructure, virtualization infrastructure with Solaris
-> Zones, Xen and VMware, network layer.
+> **Senior Systems Administrator (Apr 2008 - Jul 2009)** - Automated backups.
+> Designed and implemented SAN storage.  Designed and implemented
+> virtualization infrastructure with Solaris Zones, Xen and VMware.  Designed
+> and implemented the datacenter network and physical host connectivity.
 
 ##### [The Ohio State University](https://www.osu.edu)
 
-> **Systems Administrator (Mar 2004 - Mar 2008)** - Provide technical support to
-> faculty, staff and graduate students at the Department of Mathematics.
+> **Systems Administrator (Mar 2004 - Mar 2008)** - Provided technical support
+> to faculty, staff and graduate students at the Department of Mathematics.
 > Developed, deployed and maintained network services and infrastructure.
 > Managed student employees.  Designed and implemented a configuration
 > management system using Puppet which replaced cfengine in the network.
