@@ -36,10 +36,10 @@ _[github.com/jeffmccune](https://github.com/jeffmccune) &middot; jeff@openinfras
 >    progress.
 >  * [F5 Map][f5map] - Parse F5 iRules and output structured JSON and CSV for
 >    analysis and migration to Cloud firewalls.  Ruby CLI app.
->  * [Cloud Foundation Toolkit][cft] - Accerlate Google Cloud adoption with
->    ready to use Terraform modules.  Designed and implemented the address and
->    startup-scripts modules, contributed to the project-factory module.
->    Terraform modules.
+>  * [Cloud Foundation Toolkit][cft] - Accerlate enterprise adoption of Google
+>    Cloud with ready to use Terraform modules.  Designed and implemented the
+>    address and startup-scripts modules, contributed to the project-factory
+>    module.
 
 ##### [Puppet, Inc.](https://puppet.com/)
 
