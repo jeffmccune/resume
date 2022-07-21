@@ -112,7 +112,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (1.5.3)
-    rake (13.0.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -131,7 +130,7 @@ GEM
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.1)
 
@@ -140,7 +139,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 94)
-  rake
 
 BUNDLED WITH
    1.17.2
